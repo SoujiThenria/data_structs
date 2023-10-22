@@ -4,7 +4,7 @@ data_structs
 Includes some simple data structures
 
 - [ ] Linked lists
-- [ ] Stacks
+- [x] Stacks
 - [ ] Queues
 - [ ] Hash tables
 - [ ] Binary search tree
