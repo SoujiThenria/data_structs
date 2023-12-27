@@ -5,7 +5,7 @@ Includes some simple data structures
 
 - [x] Linked lists
 - [x] Stacks
-- [ ] Queues
+- [x] Queues
 - [ ] Hash tables
 - [ ] Binary search tree
 - [ ] Red-Black tree
